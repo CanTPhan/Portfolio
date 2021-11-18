@@ -1,0 +1,31 @@
+/**css reset**/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(44, 82, 82);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 50px ;
+}
+
+nav {
+    flex-direction: row;
+    justify-content: left;
+    background-color: rgb(34, 114, 94);
+    padding: 15px;
+}
+
+body {
+    background-color: rgb(183, 255, 239);
+}
+
+
+
+footer {
+    background-color: rgb(34, 114, 94);
+    padding: 15px;
+}
